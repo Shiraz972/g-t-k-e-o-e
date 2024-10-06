@@ -30,7 +30,7 @@
 <li>Watching tv-shows/movies</li>
 <li><a href="https://www.netflix.com/browse">Netflix!</a></li>
 
-<h2>Fun Fact:<h2></h2> Ive never had KFC
+<h2>Fun Fact:<h2></h2> I've never had KFC.
 
 </body>
 <h1>Social Media</h1>
