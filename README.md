@@ -21,7 +21,7 @@
 <h1>Lewis Email</h1> muhammadskhan@lewisu.edu
 <a href="mailto:muhammadskhan@lewisu.edu"> Email</a>
 <h2>Discord Info</h2>shizzy_01<h2></h2>
-<img src="Shiraz.khan alt="Shiraz Khan" width="280" height="300">
+<img src="Shiraz.khan.png alt="Shiraz's Picture" width="280" height="300">
 <h1>Inroduction:<h1></h1> I am a amiddle child of 3. I am somebody who likes to stay busy, also known as a multipotentialite. I have many hobbies that include acting and singing.:</h2>.
 <h1>My Hobby</h1>
 <ul style="list-style-type:square;">
